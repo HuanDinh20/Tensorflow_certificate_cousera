@@ -1,0 +1,10 @@
+*/*/*.jpg
+*/*.jpg
+*.jpg
+.idea
+*.zip
+*/*.zip
+*/*/*.zip
+*/*/*.png
+*/*.png
+*.png
